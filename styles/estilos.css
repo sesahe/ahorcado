@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100%;
+    font-family: Consolas;
+    background: linear-gradient(grey, white);
+}
+
+h1 {
+    margin: 2%;
+    text-align: center;
+    font-size: 3em;
+    text-decoration: underline;
+}
+
+p {
+    margin: 5%;
+    text-align: center;
+    font-size: 2em;
+}
