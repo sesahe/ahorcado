@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100%;
+    font-family: Consolas;
+    background: linear-gradient(grey, white);
+}
+
+h1 {
+    margin: 2%;
+    text-align: center;
+    font-size: 3em;
+    text-decoration: underline;
+}
+
+p {
+    margin: 5%;
+    text-align: center;
+    font-size: 2em;
+}
+
+form {
+    width: 60%;
+    margin: 0 34%;
+    font-size: 2em;
+}
+
+input {
+    box-sizing: border-box;
+    width: 10%;
+    margin: 8px 0;
+    padding: 12px 20px;
+    font-size: 1em;
+    border-radius: 5px;
+}
+
+button {
+    display: inline-block;
+    padding: 15px 32px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background-color: #04AA6D;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #04AA;
+}
